@@ -12,12 +12,11 @@ module.exports = {
     },
   ],
 
-  // locals(options) {
-  //   // Return custom template variables here.
-  //   return {
-  //     foo: options.entity.options.foo
-  //   };
-  // }
+  locals(options) {
+    return {
+      type: options.type,
+    };
+  },
 
   // afterInstall(options) {
   //   // Perform extra work here.
