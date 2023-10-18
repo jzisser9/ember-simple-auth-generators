@@ -1,15 +1,15 @@
 {
   "name": "ember-simple-auth-generators",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "1.0.0",
+  "description": "A set of generators for ember-simple-auth. To see the list of generators, type in ember generate --help.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-simple-auth"
   ],
-  "repository": "",
+  "repository": "https://github.com/jzisser9/ember-simple-auth-generators",
   "license": "MIT",
-  "author": "",
+  "author": "Jonathan Zisser",
   "directories": {
-    "doc": "doc",
     "test": "tests"
   },
   "scripts": {
