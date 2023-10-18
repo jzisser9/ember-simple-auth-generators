@@ -1,6 +1,6 @@
 {
   "name": "ember-simple-auth-generators",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A set of generators for ember-simple-auth. To see the list of generators, type in ember generate --help.",
   "keywords": [
     "ember-addon",
